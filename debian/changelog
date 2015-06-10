@@ -1,3 +1,9 @@
+mlat-client (0.2.0 unstable; urgency=low
+
+ * Add selections for output-host and output-port in debian configuration files.
+ 
+ --- Jon Fear <git@mlat-radar.net> Wed, 10 Jun 2015 09:00 +0100
+
 mlat-client (0.1.16) unstable; urgency=medium
 
   * Workaround for dump1090-mutability issue #47 (a bug when using --modeac that would
