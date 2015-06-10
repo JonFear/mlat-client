@@ -63,6 +63,8 @@ case "$1" in
         subvar input-type INPUT_TYPE
         subvar input-host INPUT_HOST
         subvar input-port INPUT_PORT
+        subvar output-host OUTPUT_HOST
+        subvar output-port OUTPUT_PORT
         subvar receiver-lat LAT
         subvar receiver-lon LON
         subvar receiver-alt ALT
