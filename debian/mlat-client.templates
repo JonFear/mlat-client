@@ -84,6 +84,18 @@ Description: Input port for Mode S traffic:
 Type: string
 Default: 30005
 
+Template: mlat-client/output-host
+Description: Output host for alternate server:
+ This is to be used when sending data to an alternate host system. A FQDN or IP address should be used here.
+Type: string
+Default:
+
+Template: mlat-client/output-port
+Description: Output port for alternate server:
+ This is to be used with the output-host option. Input the connection port of the alternate server.
+Type: string
+Default:
+ 
 Template: mlat-client/sbs-port
 Description: Port for SBS-format output connections (0 disables):
  The multilateration client can return the calculated aircraft positions in Basestation format.
