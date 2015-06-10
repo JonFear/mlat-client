@@ -24,6 +24,12 @@ INPUT_HOST=
 # Input port to connect to for Beast-format messages
 INPUT_PORT=
 
+# Output Host (server) to feed data to. IP address or FQDN.
+OUTPUT_HOST=
+
+# Output Port number to feed data to. 
+OUTPUT_PORT=
+
 # Latitude of the receiver, in decimal degrees
 LAT=
 
