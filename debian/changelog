@@ -1,6 +1,7 @@
-mlat-client (0.2.0 unstable; urgency=low
+mlat-client (0.2.0) unstable; urgency=low
 
  * Add selections for output-host and output-port in debian configuration files.
+ * New revision level to reflect different fork.
  
  --- Jon Fear <git@mlat-radar.net> Wed, 10 Jun 2015 09:00 +0100
 
